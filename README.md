@@ -1,80 +1,79 @@
-# Simple Streamlit Database Application
+# Aplikasi Database Sederhana dengan Streamlit
 
-This is a basic example of a Streamlit application that interacts with a simple database. It's designed to help students at SMK understand how to create a basic interactive web application using Streamlit and a database.
+Ini adalah contoh dasar dari aplikasi Streamlit yang berinteraksi dengan database sederhana. Tujuannya adalah untuk membantu siswa di SMK memahami bagaimana membuat aplikasi web interaktif dasar menggunakan Streamlit dan database.
 
-## Table of Contents
+## Daftar Isi
 
-- [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Deskripsi](#deskripsi)
+- [Fitur-fitur](#fitur-fitur)
+- [Instalasi](#instalasi)
+- [Penggunaan](#penggunaan)
+- [Teknologi](#teknologi)
+- [Berkontribusi](#berkontribusi)
+- [Lisensi](#lisensi)
 
-## Description
+## Deskripsi
 
-This project demonstrates the creation of a simple web application using [Streamlit](https://streamlit.io/). The application interacts with a database to perform basic operations like adding, viewing, updating, and deleting data records.
+Proyek ini menunjukkan pembuatan aplikasi web sederhana menggunakan [Streamlit](https://streamlit.io/). Aplikasi ini berinteraksi dengan database untuk melakukan operasi dasar seperti menambahkan, melihat, memperbarui, dan menghapus data.
 
-The goal of this project is to introduce SMK students to the concept of web application development using Python, Streamlit, and basic database interactions.
+Tujuan dari proyek ini adalah untuk memperkenalkan siswa SMK pada konsep pengembangan aplikasi web menggunakan Python, Streamlit, dan interaksi database dasar.
 
-## Features
+## Fitur-fitur
 
-- Add new records to the database.
-- View existing records in a tabular format.
-- Update records' information.
-- Delete unwanted records.
+- Menambahkan data baru ke dalam database.
+- Melihat data yang sudah ada dalam format tabel.
+- Memperbarui informasi data.
+- Menghapus data yang tidak diperlukan.
 
-## Installation
+## Instalasi
 
-1. Clone the repository:
+1. Klon repositori:
 
    ```bash
-   git clone https://github.com/yourusername/simple-streamlit-database.git
-   cd simple-streamlit-database
+   git clone https://github.com/namauserkamu/aplikasi-database-streamlit.git
+   cd aplikasi-database-streamlit
    ```
 
-2. Install the required dependencies:
+2. Pasang dependensi yang diperlukan:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run the Streamlit application:
+3. Jalankan aplikasi Streamlit:
 
    ```bash
    streamlit run app.py
    ```
 
-## Usage
+## Penggunaan
 
-1. Launch the Streamlit application by executing the above command.
-2. The application will open in your default web browser.
-3. Follow the on-screen instructions to interact with the database:
-   - Add new records using the provided form.
-   - View and search for existing records in the table.
-   - Update records by clicking on the "Edit" button.
-   - Delete records by clicking on the "Delete" button.
+1. Buka aplikasi Streamlit dengan menjalankan perintah di atas.
+2. Aplikasi akan terbuka di peramban web bawaan Anda.
+3. Ikuti instruksi di layar untuk berinteraksi dengan database:
+   - Tambahkan data baru menggunakan formulir yang disediakan.
+   - Lihat dan cari data yang sudah ada dalam tabel.
+   - Perbarui data dengan mengklik tombol "Edit".
+   - Hapus data dengan mengklik tombol "Delete".
 
-## Technologies
+## Teknologi
 
-- [Streamlit](https://streamlit.io/): Python library for creating interactive web applications.
-- Database (SQLite, MySQL, PostgreSQL, etc.): A simple database to store and manage records.
+- [Streamlit](https://streamlit.io/): Pustaka Python untuk membuat aplikasi web interaktif.
+- Database (SQLite, MySQL, PostgreSQL, dll.): Database sederhana untuk menyimpan dan mengelola data.
 
-## Contributing
+## Berkontribusi
 
-Contributions are welcome! If you have any improvements or new features to add, please follow these steps:
+Kontribusi sangat diterima! Jika Anda memiliki perbaikan atau fitur baru untuk ditambahkan, silakan ikuti langkah-langkah berikut:
 
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`.
-3. Implement your changes and test thoroughly.
-4. Commit your changes: `git commit -m 'Add some feature'`.
-5. Push to the branch: `git push origin feature-name`.
-6. Create a pull request explaining your changes.
+1. Fork repositori ini.
+2. Buat cabang baru untuk fitur Anda: `git checkout -b nama-fitur`.
+3. Implementasikan perubahan Anda dan uji dengan seksama.
+4. Commit perubahan Anda: `git commit -m 'Tambahkan fitur'`.
+5. Push ke cabang Anda: `git push origin nama-fitur`.
+6. Buat pull request yang menjelaskan perubahan Anda.
 
-## License
+## Lisensi
 
-This project is licensed under the [MIT License](LICENSE).
+Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
 
 ---
-
