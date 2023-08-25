@@ -44,7 +44,7 @@ Tujuan dari proyek ini adalah untuk memperkenalkan siswa SMK pada konsep pengemb
 
    ```bash
    streamlit run app.py
-   ```
+   ```      
 
 ## Penggunaan
 
