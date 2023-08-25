@@ -1,4 +1,5 @@
 # Aplikasi Database Sederhana dengan Streamlit
+![alt](https://res.cloudinary.com/practicaldev/image/fetch/s--FlCL2wTI--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t0jgef3vyjid17z8sf3m.png)
 
 Ini adalah contoh dasar dari aplikasi Streamlit yang berinteraksi dengan database sederhana. Tujuannya adalah untuk membantu siswa di SMK memahami bagaimana membuat aplikasi web interaktif dasar menggunakan Streamlit dan database.
 
